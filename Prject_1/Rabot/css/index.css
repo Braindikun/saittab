@@ -1,0 +1,19 @@
+.names{
+    text-align: right;
+    width: 30%;
+    float: left
+}
+input{
+    margin: 1%;
+    padding: 3px
+}
+header{
+    margin: auto
+}
+.knopki{
+    float: left
+}
+#vopros{
+    margin: 0%;
+    margin-left:3%
+}
